@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
 //    ListView lvKq;
     ArrayList<Address> dsZMap1;
+    ArrayList<Address> dsZMap2;
     ArrayAdapter<Address>adapterZMap;
 
     TextView txtKq;
