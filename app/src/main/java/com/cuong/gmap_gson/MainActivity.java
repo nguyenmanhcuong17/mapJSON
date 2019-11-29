@@ -34,7 +34,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 
 //    ListView lvKq;
-//    ArrayList<Address> dsZMap;
+    ArrayList<Address> dsZMap1;
 //    ArrayAdapter<Address>adapterZMap;
 
     TextView txtKq;
